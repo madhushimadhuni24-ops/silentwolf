@@ -31,7 +31,7 @@
 
 **SESSION PAIR**
 <br>
-<a href="https://7-w.vercel.app/wolfbot.html" target="_blank">
+<a href="https://pair.xwolf.space" target="_blank">
   <img src="https://img.shields.io/badge/pair%20code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkgreen" alt="PAIR"/>
 </a>
 
