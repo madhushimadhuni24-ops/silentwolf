@@ -14,7 +14,7 @@
       "value": "",
       "required": true
     },
-    "DATABASE_URL": {
+    "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": {
       "description": "OPTIONAL: PostgreSQL connection string for persistent storage. Supports Heroku Postgres, Supabase, Neon, Railway, etc. Format: postgres://user:password@host:5432/dbname?sslmode=require — Leave blank to run on SQLite only.",
       "value": "",
       "required": false
